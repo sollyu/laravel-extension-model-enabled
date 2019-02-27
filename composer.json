@@ -1,0 +1,12 @@
+{
+    "name": "sollyu/laravel-model-enabled",
+    "description": "laravel model support is_enabled column",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "sollyu",
+            "email": "sollyu@qq.com"
+        }
+    ],
+    "require": {}
+}
