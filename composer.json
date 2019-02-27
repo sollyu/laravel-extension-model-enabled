@@ -8,5 +8,12 @@
             "email": "sollyu@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sollyu\\IsEnabled\\": "src/"
+        }
+    }
 }
